@@ -1,7 +1,11 @@
 aid: unified-grocers
-url: https://raw.githubusercontent.com/api-evangelist/unified-grocers/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/unified-grocers/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.unified-grocers.com
+description: >-
+  Unified Grocers was a retailer-owned wholesale grocery cooperative that supplied
+  independent grocers in the western United States before being acquired by SuperValu.
