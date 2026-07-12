@@ -23,6 +23,8 @@ description: >-
   As a result, Unified Grocers does not maintain a public API developer portal or
   externally accessible APIs.
 common:
+  - type: DomainSecurity
+    url: security/unified-grocers-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/unified-grocers
   - type: Website
