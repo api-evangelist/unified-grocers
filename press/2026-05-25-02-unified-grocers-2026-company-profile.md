@@ -1,7 +1,9 @@
 ---
 title: Unified Grocers 2026 Company Profile
 url: https://pitchbook.com/profiles/company/42386-95
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Unified Grocers" press release artificial intelligence'
 position: 2
 source: serpapi-google

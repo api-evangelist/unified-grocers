@@ -1,7 +1,9 @@
 ---
 title: Introducing the Mobile Checkout Self Install Kit
 url: https://www.futureproofretail.com/media/introducing-the-mobile-checkout-self-install-kit
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Unified Grocers" press release artificial intelligence'
 position: 1
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: 2019 Top Grocery Carriers
 url: https://www.ttnews.com/private-carriers/grocery/2019?order=field_current_rank&sort=asc&page=7
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Unified Grocers" press release artificial intelligence'
 position: 3
 source: serpapi-google
